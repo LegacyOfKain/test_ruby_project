@@ -9,11 +9,13 @@ Before running this project, make sure you have Ruby installed on your system. Y
 ## Installation
 
 1. Install the required gems by running the following commands:
-   ```
+```bash
 gem install http
 gem install oj
-   ```
+```
 2. Clone the repository:
   
 3. Run the project:
+
+4. You can see the intellisense works for the installed gems in Intellij Idea
     
