@@ -1,0 +1,88 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore uploaded files in development
+/storage/*
+!/storage/.keep
+
+# Ignore Byebug command history file
+.byebug_history
+
+# Ignore node_modules
+/node_modules
+
+# Ignore precompiled javascript packs
+/public/packs
+/public/packs-test
+/public/assets
+
+# Ignore yarn files
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+# Ignore bundled gems
+/vendor/bundle
+
+# Ignore the default SQLite database
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all .env files
+.env*
+
+# Ignore master key for decrypting credentials and more
+/config/master.key
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore RVM configuration
+.rvmrc
+
+# Ignore Ruby version file
+.ruby-version
+
+# Ignore RubyMine project files
+.idea/
+
+# Ignore coverage reports
+/coverage/
+
+# Ignore RSpec state
+spec/examples.txt
+
+# Ignore Capybara screenshot
+capybara-*.html
+
+# Ignore SimpleCov generated files
+/coverage/
+
+# Ignore Rubocop cache
+.rubocop-https?--*
+
+# Ignore gem builds
+*.gem
+
+# Ignore local Gemfile overrides
+Gemfile.local
+
+# Ignore IRB history
+.irb_history
+
+# Ignore Pry history
+.pry_history
+
+test_ruby_project.iml
