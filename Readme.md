@@ -17,5 +17,9 @@ gem install oj
   
 3. Run the project:
 
-4. You can see the intellisense works for the installed gems in Intellij Idea
+4. Use the slides
+
+[steps to setup Intellij for Ruby](Setup%20Intellij%20For%20Ruby%20Development.pptx)
+
+5. You can see the intellisense works for the installed gems in Intellij Idea
     
